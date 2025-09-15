@@ -1,7 +1,7 @@
 # Project-01
 
-# Your Name
+# ryan smith
 
-# Your Github username
+# ryansmith4444
 
-# List the things you added for points
+# There is 4 variables and 8 knots. Multiple choices to make during the story. And a play again or quit button at the end.
